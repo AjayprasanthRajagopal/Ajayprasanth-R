@@ -15,7 +15,7 @@
 `import io.restassured.response.Response;`
 
 
-##Use Static Imports to minimize Declaration of Classes
+## Use Static Imports to minimize Declaration of Classes
 
 ```
 import static io.restassured.matcher.RestAssuredMatchers.*;
