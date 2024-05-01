@@ -41,3 +41,7 @@ to Accept the request in JSON format.
 
 `npm install -g json-server`
 `json-server --version`
+
+### Create a db.json file and start the server by using 
+
+`json-server db.json`
