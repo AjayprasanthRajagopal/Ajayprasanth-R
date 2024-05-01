@@ -52,3 +52,7 @@ Install few other dependencies for JSON Validation
 
 #####  json-simple
 ##### json-schema-validator
+
+Refer `https://www.youtube.com/watch?v=xIidl6Iua0o&list=PLUDwpEzHYYLvLZX_QEGTNolPvNADXid0I&index=2 ` for Sending data in JSON
+
+we can pass the data using -> POJO (getter , setter) , external JSON File, HashMap 
