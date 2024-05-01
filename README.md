@@ -35,3 +35,9 @@ import io.restassured.http.ContentType;
 - accept 
 
 to Accept the request in JSON format.
+
+
+## To create dummmy api using json-server dependency using NPM
+
+`npm install -g json-server`
+`json-server --version`
