@@ -23,3 +23,5 @@ import static org.hamcrest.Matchers.*;
 import static io.restassured.RestAssured.*;
 
 ```
+
+## Use log().all() for consoling in output
