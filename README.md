@@ -39,9 +39,16 @@ to Accept the request in JSON format.
 
 ## To create dummmy api using json-server dependency using NPM
 
+
 `npm install -g json-server`
 `json-server --version`
 
 ### Create a db.json file and start the server by using 
 
 `json-server db.json`
+
+
+Install few other dependencies for JSON Validation
+
+#####  json-simple
+##### json-schema-validator
