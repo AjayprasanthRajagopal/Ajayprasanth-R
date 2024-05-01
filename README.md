@@ -13,3 +13,13 @@
 ` import org.testng.annotations.Test;`
 `import io.restassured.RestAssured;`
 `import io.restassured.response.Response;`
+
+
+##Use Static Imports to minimize Declaration of Classes
+
+```
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+import static io.restassured.RestAssured.*;
+
+```
